@@ -28,5 +28,3 @@ git config --global user.email "邮箱"
 推送本地代码至远程仓库
 
 `git push origin main`
-
-and
